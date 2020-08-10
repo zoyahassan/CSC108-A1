@@ -1,5 +1,5 @@
 """ Where's That Word? functions. """
-
+# CSC108 A1 MAIN FILE 
 # The constant describing the valid directions. These should be used
 # in functions get_factor and check_guess.
 UP = 'up'
